@@ -1,0 +1,7 @@
+C:\Users\Sanyad11\source\repos\FishingGame\FishingGame\bin\Release\FishingGame.exe.config
+C:\Users\Sanyad11\source\repos\FishingGame\FishingGame\bin\Release\FishingGame.exe
+C:\Users\Sanyad11\source\repos\FishingGame\FishingGame\bin\Release\FishingGame.pdb
+C:\Users\Sanyad11\source\repos\FishingGame\FishingGame\obj\Release\FishingGame.csprojAssemblyReference.cache
+C:\Users\Sanyad11\source\repos\FishingGame\FishingGame\obj\Release\FishingGame.csproj.CoreCompileInputs.cache
+C:\Users\Sanyad11\source\repos\FishingGame\FishingGame\obj\Release\FishingGame.exe
+C:\Users\Sanyad11\source\repos\FishingGame\FishingGame\obj\Release\FishingGame.pdb
